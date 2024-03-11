@@ -47,7 +47,7 @@
     "@types/node": "^12.11.1",
     "canonical-path": "0.0.2",
     "concurrently": "^3.2.0",
-    "jasmine-core": "~3.5.0",
+    "jasmine-core": "~3.8.0",
     "karma": "~5.0.0",
     "karma-chrome-launcher": "~3.1.0",
     "karma-cli": "^1.0.1",
